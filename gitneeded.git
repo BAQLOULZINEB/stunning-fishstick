@@ -1,0 +1,6 @@
+access token :  git clone https://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@github.com/BAQLOULZINEB/alx-zero_day.git
+git remote set-url origin https:/BAQLOULZINEB/github.com//alx-zero_day.git
+git config --global user.email zinebbaq@gmail.com
+ git config --global user.name BAQLOULZINEB
+git remote set-url origin https://github.com/BAQLOULZINEB/alx-zero_day.git
+https://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@github.com/BAQLOULZINEB/alx-zero_day.git (push)
